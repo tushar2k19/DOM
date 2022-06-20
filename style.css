@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+}
+
+@media(max-width:700px)
+{
+    .container #main #addForm .btn{
+        margin-top: 2%;
+    }
+}
